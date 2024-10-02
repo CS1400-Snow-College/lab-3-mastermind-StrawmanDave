@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/bin/Debug/net8.0/lab-3-mastermind-StrawmanDave
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/bin/Debug/net8.0/lab-3-mastermind-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/bin/Debug/net8.0/lab-3-mastermind-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/bin/Debug/net8.0/lab-3-mastermind-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/bin/Debug/net8.0/lab-3-mastermind-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/refint/lab-3-mastermind-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/lab-3-mastermind-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-3-mastermind-StrawmanDave/obj/Debug/net8.0/ref/lab-3-mastermind-StrawmanDave.dll
