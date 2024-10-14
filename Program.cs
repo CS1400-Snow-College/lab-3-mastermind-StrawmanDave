@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// David Barlow 10/8/24 Mastermind
+
 Console.Clear();
 
 /*
